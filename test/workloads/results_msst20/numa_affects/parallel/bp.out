@@ -1,0 +1,184 @@
+[Benchmark] bp-dram, #of_threads:  1 , workload: workloada.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1921.02
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1918.94
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1914.93
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1907.93
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1915.83
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-dram, #of_threads:  1 , workload: workloade.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2928.57
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2909.22
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2903.65
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2947.99
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2945.01
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-vmem, #of_threads:  1 , workload: workloada.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1146.92
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1167.82
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1164.42
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1169.49
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	1164.5
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-vmem, #of_threads:  1 , workload: workloade.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2220.3
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2221.18
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2216.9
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2218.97
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	2217.14
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-pmem, #of_threads:  1 , workload: workloada.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	595.18
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	594.094
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	594.341
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	594.851
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	596.343
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-pmem, #of_threads:  1 , workload: workloade.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1829.73
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1831.35
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1821.19
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1827.77
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1828.1
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-pmem-tx, #of_threads:  1 , workload: workloada.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	199.054
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	195.413
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	196.138
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	191.668
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloada.spec	1	196.047
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
+[Benchmark] bp-pmem-tx, #of_threads:  1 , workload: workloade.spec
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1832.85
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1830.18
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1832.36
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1818.97
+# Loading records:	1000000
+# Transaction records:	1000000
+# Transaction throughput (KTPS)
+storeds	../../../workloads/workloade.spec	1	1825.94
+*****************<>*****************
+~~~~~~~~~~~~~~~~~~~~~~~~~<>~~~~~~~~~~~~~~~~~~~~~~~~~
