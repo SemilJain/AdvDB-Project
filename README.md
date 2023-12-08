@@ -1,5 +1,4 @@
-
-# Project Name
+# Concurrency in B+Trees - RCU Approach
 
 ## Prerequisites
 
