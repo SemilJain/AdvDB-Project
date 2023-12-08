@@ -7,6 +7,13 @@ Before running this project, ensure you have the following:
 
 - **liburcu**: Clone and build the [liburcu repository](https://liburcu.org/) according to its installation instructions.
 
+(Optional) To run benchmark:
+- GNU Make
+- C++ (we used version 11)
+- PMDK (we used version 1.8)
+- external libraries: pthreads, pmemobj, vmem, memkind
+
+
 ## How to Run
 
 To build and run the code, follow these steps:
